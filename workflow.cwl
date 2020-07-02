@@ -28,7 +28,7 @@ inputs:
     type: File
   - id: admin
     type: string
-    default: "RA2-DREAM Organizers
+    default: "RA2-DREAM Organizers"
 
 # there are no output at the workflow engine level.  Everything is uploaded to Synapse
 outputs: []
